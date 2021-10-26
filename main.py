@@ -23,6 +23,7 @@ def median(data):
 
 print("Mediana: ", median(lista))
 
+#Necesidad de descargar de Python Packages numpy.
 import numpy
 varianza = numpy.var(lista)
 print("Varianza: ", varianza)
